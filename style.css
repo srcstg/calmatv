@@ -11,6 +11,7 @@
 	width: 100%;
 	height: auto;
   }
+
 .navbar {
     padding: .1rem 1rem;
     text-transform: uppercase;
@@ -52,6 +53,15 @@
     color: #00ffea;
 }
 
+#headerPopup{
+	width:75%;
+	margin:0 auto;
+  }
+  
+#headerPopup iframe{
+	width:100%;
+	margin:0 auto;
+  }
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
